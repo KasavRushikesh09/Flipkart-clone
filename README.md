@@ -1,6 +1,6 @@
 # Flipkart Clone
 
-![Demo App](https://github.com/KasavRushikesh09/project-Airbnb/blob/main/Screenshot%202025-01-27%20125036.png)
+![Demo App](https://github.com/KasavRushikesh09/Flipkart-clone/blob/main/flipkart_Navbar.png)
 
 
 ## Table of Contents

@@ -1,5 +1,5 @@
 # Flipkart Clone
-
+## Task 1] Creating Responsive Navbar.
 ![Demo App](https://github.com/KasavRushikesh09/Flipkart-clone/blob/main/flipkart_Navbar.png)
 
 
